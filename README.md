@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://wallpapercave.com/uwp/uwp2181382.gif" width="1000" height="300"/>
+  <img src="https://wallpapercave.com/uwp/uwp2181382.gif" width="700" height="300"/>
 </div>
 <h1 align="center">Hi 👋, I'm Navaneeth S</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
