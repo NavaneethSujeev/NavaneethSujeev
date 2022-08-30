@@ -7,7 +7,7 @@
 <a href="https://instagram.com/royal__kid_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="royal__kid" height="30" width="40" /></a>
 </p>
 
-# GitHub Stats:
+# GitHub 
 <p align="center">
   
 ![](https://github-readme-stats.vercel.app/api?username=Navaneethsujeev&theme=dracula&hide_border=false&include_all_commits=false&count_private=true)
